@@ -1,9 +1,40 @@
-# React + Vite
+# React Learning Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Learning Cafe is an interactive platform for learning React, built with React and Vite. This project showcases modern web development practices and provides a user-friendly interface for exploring React courses.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Learning_Cafe
+- Responsive design for desktop and mobile devices
+- Dark mode support
+- Featured courses list with detailed information
+- FAQ section
+- Newsletter subscription
+- Social media links
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Context API for state management
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
+4. Open your browser and navigate to `http://localhost:5173`
+
+## Project Structure
+
+- `src/components`: React components (Header, Banner, CourseList, FAQ, Footer)
+- `src/contexts`: Context providers (DarkModeContext)
+- `src/assets`: Static assets (images, icons)
+
+## Contributing
+
+We welcome contributions! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
