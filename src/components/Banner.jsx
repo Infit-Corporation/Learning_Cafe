@@ -17,8 +17,8 @@ function Banner() {
               Dive into interactive tutorials, real-world projects, and expert-led courses to elevate your React skills.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className={`${darkMode ? 'bg-blue-500 hover:bg-blue-400' : 'bg-blue-600 hover:bg-blue-700'} text-white px-6 py-3 rounded-md font-semibold transition duration-300`}>
-                Start Learning
+              <a href="https://epay-gw.sslcommerz.com/9e85e81e628b39f3fe7b69dd1ab54ffb999030c5" className={`${darkMode ? 'bg-blue-500 hover:bg-blue-400' : 'bg-blue-600 hover:bg-blue-700'} text-white px-6 py-3 rounded-md font-semibold transition duration-300`}>
+               Donate for People
               </a>
               <a href="#" className={`${darkMode ? 'bg-gray-700 text-white hover:bg-gray-600' : 'bg-white text-blue-600 hover:bg-gray-100'} px-6 py-3 rounded-md font-semibold transition duration-300 border ${darkMode ? 'border-gray-600' : 'border-blue-600'}`}>
                 View Courses

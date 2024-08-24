@@ -12,7 +12,7 @@ function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <img src={reactLogo} alt="React Logo" className="h-8 w-8 mr-2 animate-spin-slow" />
-            <h1 className="text-xl sm:text-2xl font-bold">
+            <h1 className="text-base sm:text-2xl font-bold">
               React Learning <span className={`${darkMode ? 'text-blue-400' : 'text-blue-600'}`}>Cafe</span>
             </h1>
           </div>
